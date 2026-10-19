@@ -1,0 +1,5 @@
+cluster,persona,summary,top_traits
+0,High-Value Digital Affluents,"Characterized by account balance of $157,478 (187% higher than average) and investments of $63,261 (260% higher than average).","[""account balance"", ""investments"", ""annual income""]"
+1,Emerging Credit Builders,"Characterized by annual income of $42,884 (33% lower than average) and account balance of $33,790 (38% lower than average).","[""annual income"", ""account balance"", ""age""]"
+2,Active Digital Transactors,Characterized by digital score of 75/100 (25% higher than average) and transactions/month of 45 (28% higher than average).,"[""digital score"", ""transactions/month"", ""age""]"
+3,Dormant / Low-Engagement Savers,Characterized by age of 52 yrs (27% higher than average) and digital score of 45/100 (24% lower than average).,"[""age"", ""digital score"", ""transactions/month""]"

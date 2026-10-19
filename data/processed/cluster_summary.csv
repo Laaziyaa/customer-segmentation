@@ -1,0 +1,5 @@
+cluster,customers,average_age,average_annual_income,average_account_balance,average_credit_score,average_monthly_transactions,average_investment_amount,average_digital_banking_score,average_number_of_products,average_account_tenure,average_income,average_balance,average_transactions,average_investment,average_products
+0,3657,44.1,155880.97,157477.58,724.36,44.93,63261.05,63.79,4.63,12.35,155880.97,157477.58,44.93,63261.05,4.63
+1,14053,34.52,42883.81,33789.65,657.72,33.06,10051.87,61.92,1.14,7.93,42883.81,33789.65,33.06,10051.87,1.14
+2,12519,34.26,74002.29,62619.29,707.31,44.81,18940.25,74.56,2.56,8.3,74002.29,62619.29,44.81,18940.25,2.56
+3,10959,52.3,56141.99,50237.55,685.05,25.24,15017.24,45.28,2.65,16.37,56141.99,50237.55,25.24,15017.24,2.65
